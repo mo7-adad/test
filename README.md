@@ -31,6 +31,6 @@ Open `index.html` in your browser and check the output in the **Console** (F12).
 
 ## Author
 
-**Mohamed Elhadad** — Front-End Developer
+**Mohamed Al-hadad** — Front-End Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-mo7--adad-181717?style=flat-square&logo=github)](https://github.com/mo7-adad)
